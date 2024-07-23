@@ -45,4 +45,3 @@ Describes the overwhelming spread of information, termed "infodemic," and its ne
 [Read more](https://virgool.io/@gorjiarman/infodemic-an-underestimated-problem)
 
 For more details, visit [Arman Gorji's Virgool page](https://virgool.io/@gorjiarman).
-```
