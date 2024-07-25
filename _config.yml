@@ -2,7 +2,10 @@ title: Arman Gorji
 logo: /assets/img/cimage2.png
 email: gorjiarman@gmail.com
 description: General Practitioner, Python and Java developer, interested in digital health and health data science. You can find me anywhere with the @gorjiarman handle.
-show_downloads: True
+show_downloads: true 
+  github:  
+    zip_url: "google.com"
+    tar_url: "google.com"
 google_analytics: G-ZLK2GHB055
 color-scheme: auto
 plugins:
