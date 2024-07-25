@@ -15,10 +15,11 @@
        <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
       {%- endfor %}
     </ul>
-    <div class="downloads">
-      <h3>Downloads</h3>
-      <a href="{{ site.baseurl }}/assets/files/your-file.zip" download>Download File</a>
+    {% if page.show_downloads %}
+<ul class="downloads">
+    <h3>Downloads</h3>
+    <a href="{{ site.baseurl }}/assets/files/your-file.zip" download>Download File</a>
+{% endif %}
+</ul>
+
   </div>
-  {% endif %}
-  </div>
-  {% if page.show_downloads %}
