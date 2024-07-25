@@ -74,68 +74,68 @@ Describes the overwhelming spread of information, termed "infodemic," and its ne
 [Read more](https://virgool.io/@gorjiarman/infodemic-an-underestimated-problem)
 
 ## Restartup
-![Restartup](https://bayanbox.ir/view/2073504461655808286/Untitled-6.jpg)
 **Date:** December 10, 2015
+![Restartup](https://bayanbox.ir/view/2073504461655808286/Untitled-6.jpg)
 Discusses the concept of restarting or revamping existing projects or ideas to achieve better results. Highlights the importance of innovation and persistence in the face of initial failures.
 [Read more](https://armanvi.blog.ir/post/ری-استارتاپ)
 
 ## You Don't Need to Be a Scientist to Do Scientific Work
-![You Don't Need to Be a Scientist to Do Scientific Work](https://bayanbox.ir/view/7120041637812238738/Captur1e.png)
 **Date:** February 1, 2016
+![You Don't Need to Be a Scientist to Do Scientific Work](https://bayanbox.ir/view/7120041637812238738/Captur1e.png)
 Encourages people to engage in scientific endeavors regardless of their professional background. Provides examples of how non-scientists have contributed to scientific advancements through curiosity and experimentation.
 [Read more](https://armanvi.blog.ir/post/نیاز-نیست-که-برای-انجام-کارای-علمی-حتما-دانشمند-باشید)
 
 ## Don't Forget Open Source Linux Distributions
-![Don't Forget Open Source Linux Distributions](http://www.unix.org/images/unix_plate.jpg)
 **Date:** March 12, 2016
+![Don't Forget Open Source Linux Distributions](http://www.unix.org/images/unix_plate.jpg)
 Discusses the competition between major operating systems like Microsoft and Apple, and the role of Linux-based systems. Emphasizes the advantages of open-source software, particularly for developers, and the reasons why some users prefer Linux distributions despite the dominance of commercial operating systems.
 [Read more](https://armanvi.blog.ir/post/توزیع-های-متن-باز-لینوکس-را-فراموش-نکنید)
 
 ## Useless, But Your Friendly Search Engine Indexed It
-![Useless, But Your Friendly Search Engine Indexed It](https://bayanbox.ir/view/7755984643748248292/Capture.png)
 **Date:** January 25, 2016
+![Useless, But Your Friendly Search Engine Indexed It](https://bayanbox.ir/view/7755984643748248292/Capture.png)
 A humorous take on the vast amount of trivial information available on the internet and how search engines index it. Reflects on the value and impact of seemingly useless data.
 [Read more](https://armanvi.blog.ir/post/Useless-But-your-friendly-search-engine-indexed-it)
 
 ## 365 GIGAPIXELS
-![365 GIGAPIXELS](http://www.in2white.com/assets/img/making/making35-l-full.jpg)
 **Date:** December 30, 2015
+![365 GIGAPIXELS](http://www.in2white.com/assets/img/making/making35-l-full.jpg)
 Explores the advancements in image resolution technology, specifically the creation of ultra-high-resolution gigapixel images. Discusses the potential applications and challenges of such technology in various fields.
 [Read more](https://armanvi.blog.ir/post/365-GIGAPIXELS)
 
 ## The Plot of Inception Was Great, But Not Unique
-![The Plot of Inception Was Great, But Not Unique](http://cinespia.org/wp-content/uploads/2016/01/ES_tf2.jpg)
 **Date:** January 2, 2016
+![The Plot of Inception Was Great, But Not Unique](http://cinespia.org/wp-content/uploads/2016/01/ES_tf2.jpg)
 Analyzes the movie "Inception" by Christopher Nolan, comparing its plot to other films and stories with similar themes. Highlights the originality of the film's execution despite its familiar concepts.
 [Read more](https://armanvi.blog.ir/post/پلات-اینسپشن-معرکه-بود-اما-بی-همتا-نه)
 
 ## A Few Posts from the Heart of Nature
-![A Few Posts from the Heart of Nature](https://upload.wikimedia.org/wikipedia/commons/6/69/A_human_eye_1_day_after_a_cornea_transplant.jpg)
 **Date:** December 15, 2015
+![A Few Posts from the Heart of Nature](https://upload.wikimedia.org/wikipedia/commons/6/69/A_human_eye_1_day_after_a_cornea_transplant.jpg)
 Shares reflections and observations from spending time in nature. Emphasizes the importance of connecting with the natural world and its benefits for mental and physical well-being.
 [Read more](https://armanvi.blog.ir/post/چندتا-مطلب-از-دل-طبیعت)
 
 ## Don't Paint This Painting
-![Don't Paint This Painting](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Blank_map_of_world_no_country_borders.PNG/1200px-Blank_map_of_world_no_country_borders.PNG)
 **Date:** February 10, 2016
+![Don't Paint This Painting](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Blank_map_of_world_no_country_borders.PNG/1200px-Blank_map_of_world_no_country_borders.PNG)
 Discusses a specific painting and the reasons why it should remain unaltered. Explores the themes and artistic intentions behind the work.
 [Read more](https://armanvi.blog.ir/post/این-تابلوی-نقاشی-را-رنگ-نکنید)
 
 ## Live Blogging: Tehran
-![Live Blogging: Tehran](https://visitiran.ir/visitPic/de2e_standard/public/2019-01/DSCF3742.jpg)
 **Date:** February 25, 2016
+![Live Blogging: Tehran](https://visitiran.ir/visitPic/de2e_standard/public/2019-01/DSCF3742.jpg)
 Describes the experience of live blogging from Tehran, capturing the city's atmosphere and events in real-time. Highlights the immediacy and authenticity of live reporting.
 [Read more](https://armanvi.blog.ir/post/وبلاگ-نویسی-زنده-تهران)
 
 ## Deeper
-![Deeper](https://cdn.prod.website-files.com/632ac1a36830f75c7e5b16f0/6588af191119417045912f72_v2-4nvt3-ryjfv.jpeg)
 **Date:** January 10, 2016
+![Deeper](https://cdn.prod.website-files.com/632ac1a36830f75c7e5b16f0/6588af191119417045912f72_v2-4nvt3-ryjfv.jpeg)
 Examines Google's AI successes, particularly DeepMind's achievements, and explores the impact of AI in the field of art through the DeepArt project. Highlights the challenges and potential of integrating AI with creative processes.
 [Read more](https://armanvi.blog.ir/post/دیپ-تر)
 
 ## What Color is Your World?
-![What Color is Your World?](http://bayanbox.ir/view/5156698688203615103/BigSlider.jpg)
 **Date:** December 24, 2015
+![What Color is Your World?](http://bayanbox.ir/view/5156698688203615103/BigSlider.jpg)
 A review of the film "In What Time is Your World?" by Safi Yazdanian, focusing on the fusion of French and Gilaki culture in the film's music and storytelling. Praises the film's soundtrack composed by Christophe Rezai for its innovative blend of cultural elements.
 [Read more](https://armanvi.blog.ir/post/Qu-elle-est-la-couleur-de-votre-monde)
 
