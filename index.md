@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Blog Posts
+# Recent Posts
 
 ## From Snake Oil to AI Papers in Medicine
 ![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/ytzokldowks3/lk16unrerpgf.jpg)
