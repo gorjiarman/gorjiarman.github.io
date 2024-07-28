@@ -26,4 +26,10 @@ Creating this model helps doctors and medical staff to use the collected patient
 
 This is just one example among many articles written in this field, which are increasing day by day. Our advancements in hardware and processing power, as well as AI models and algorithms, will make this technology faster and more accurate. Perhaps one day, before any intervention (from drugs to surgery) on the human body, its effectiveness will be tested on a digital twin of that person. Maybe one day, there will be a digital twin of each of us so precise that it can even predict and prevent our cause and time of death due to diseases.
 
+1.Barricelli, B.R.; Casiraghi, E.; Fogli, D. A survey on digital twin: Definitions, characteristics, applications, and design implications. IEEE Access 2019, 7, 167653–167671.
+
+2.Gillette, K.; Gsell, M.A.; Prassl, A.J.; Karabelas, E.; Reiter, U.; Reiter, G.; Grandits, T.; Payer, C.; Štern, D.; Urschler, M.; et al. A Framework for the generation of digital twins of cardiac electrophysiology from clinical 12-leads ECGs. Med. Image Anal. 2021, 71, 102080
+
+
+
 [back](./)
