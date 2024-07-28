@@ -3,10 +3,11 @@ layout: default
 ---
 
 # Recent Posts
-[##Digital Twins](./post1.html).
+
+## Digital Twins
 **Date:** July 27, 2024
 ![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/k26eqia1hlxo/7upnfr0iqern.png)
-At its core, the concept of digital twins involves creating virtual alter-egos of objects, living organisms, spaces, or processes. The historical roots of digital twins trace back to simulated environments created by NASA in the 1970s
+At its core, the concept of digital twins involves creating virtual alter-egos of objects, living organisms, spaces, or processes. The historical roots of digital twins trace back to simulated environments created by NASA in the 1970s [Continue Reading](./post1.html).
 
 ## From Snake Oil to AI Papers in Medicine
 **Date:** April 03, 2024
