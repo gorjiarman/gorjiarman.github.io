@@ -4,7 +4,7 @@ layout: default
 
 ## Digital Twins
 
-![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/k26eqia1hlxo/7upnfr0iqern.png)
+![From Snake Oil to AI Papers in Medicine](assets/img/post1-cover.png)
 
 One thing that has always fascinated me is the reconstruction of complex biological systems on computers. A few years ago, when I first started learning programming, I tried to write a program that I later realized was called cellular automata. Considering my knowledge at that time and the workload, everything didn’t go very well. Eventually, when I got to know about Conway's Game of Life, I realized that I was treading a well-known path and had nothing new to offer. Later, as I worked more in the field of artificial intelligence, I became familiar with the concept of digital twins and felt that I might find what I had thought about back then in this domain and create something new here. Below, I write a few paragraphs about digital twins in healthcare, summarizing several review articles. This includes an explanation of the overall concept and history of digital twins, their types and functionalities, an example, and how they can help us in medicine.
 
@@ -16,11 +16,11 @@ While the complete virtual reconstruction of the human body may seem far-fetched
 
 One of the areas that has gained more popularity is the creation of digital twins for the heart. This process involves two stages: anatomical and functional twinning. In the anatomical stage, a very detailed 3D copy of the real heart is created based on the patient's CT or MRI scans. This stage uses a model like UVC, and with relatively little input data, automatically creates a virtual twin of the heart by utilizing the locations of specific cardiac regions such as the apex or septum.
 
-![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/k26eqia1hlxo/6v2mwv53367u.png)
+![From Snake Oil to AI Papers in Medicine](assets/img/post1-1.webp)
 
 The next stage is creating the functional twin, which covers the heart's electrophysiology. Four main factors are involved in generating ECG waves: depolarization caused by the His-Purkinje system and distribution to the subendocardium, conduction velocity within the ventricles, spatially varying action potential duration, and the conductivity of the torso surrounding the heart. The electrophysiological activity of the anatomical reference frame was simulated and compared with clinical measurements of 12-lead ECGs. These comparisons show that the ECG can be automatically and very closely simulated to the real ECG.
 
-![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/k26eqia1hlxo/hbn1ibjvoqir.png)
+![From Snake Oil to AI Papers in Medicine](assets/img/post1-2.webp)
 
 Creating this model helps doctors and medical staff to use the collected patient data to have a virtual ECG of the patient. They can see the effect of various interventions, such as implanting different devices, on the patient's heart function and ECG virtually before applying them in reality, allowing them to make better decisions [2].
 

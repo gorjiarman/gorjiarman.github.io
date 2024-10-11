@@ -11,75 +11,75 @@ In recent years, we've seen incredible breakthroughs in artificial intelligence,
 
 ## Digital Twins
 **Date:** July 27, 2024
-![From Snake Oil to AI Papers in Medicine](assets/img/post1-cover.png)
+![Digital Twins](assets/img/post1-cover.png)
 At its core, the concept of digital twins involves creating virtual alter-egos of objects, living organisms, spaces, or processes. The historical roots of digital twins trace back to simulated environments created by NASA in the 1970s [Read more](./post1.html).
 
 ## From Snake Oil to AI Papers in Medicine
 **Date:** April 03, 2024
-![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/ytzokldowks3/lk16unrerpgf.jpg)
+![From Snake Oil to AI Papers in Medicine](assets/img/ppost1.webp)
 Discusses the history and persistence of fraudulent medical products, known as "snake oil," and the modern equivalent found in some AI-based medical research papers. The post highlights how unverified and exaggerated claims can mislead both professionals and the public, emphasizing the need for rigorous validation and ethical considerations in publishing AI research in medicine.
 [Read more](https://virgool.io/@gorjiarman/from-snake-oil-to-ai-papers-in-medicine)
 
 
 ## Five Key Challenges in Digital Health - Part 2
 **Date:** January 05, 2024
-![Five Key Challenges in Digital Health - Part 2](https://files.virgool.io/upload/users/22770/posts/jmh4llk4bq3e/e3vt8ijvxywk.jpg)
+![Five Key Challenges in Digital Health - Part 2](assets/img/ppost2.webp)
 Explores five major challenges in the realm of digital health, focusing on longstanding technologies such as medical imaging and telemedicine. The post examines the integration, implementation, and ethical issues surrounding these technologies, and suggests potential solutions for overcoming these challenges to enhance patient care and medical outcomes.
 [Read more](https://virgool.io/@gorjiarman/five-key-challenges-in-digital-health-part-2)
 
 
 ## Large Language Models (LLMs) in Medicine
 **Date:** December 16, 2023
-![Large Language Models (LLMs) in Medicine](https://files.virgool.io/upload/users/22770/posts/n1onlsqwdm14/bueapinslgti.jpg)
+![Large Language Models (LLMs) in Medicine](assets/img/ppost3.webp)
 Highlights the excitement around the application of large language models (LLMs) in the medical field. The post delves into how these models can revolutionize medical diagnostics, patient interaction, and research by processing and analyzing vast amounts of medical data with high accuracy, while also discussing the limitations and ethical concerns of relying on AI in healthcare.
 [Read more](https://virgool.io/@gorjiarman/large-language-models-llms-in-medicine)
 
 
 ## Interpretability of AI in Health
 **Date:** Augest 16, 2023
-![Interpretability of AI in Health](https://files.virgool.io/upload/users/22770/posts/nddcvkiwjjoz/gixh2axwwipm.webp)
+![Interpretability of AI in Health](assets/img/ppost4.webp)
 Focuses on the critical aspect of understanding and interpreting the decisions made by AI models in healthcare. The post argues that for AI to be trusted and widely adopted in medical practice, it must be transparent and its decisions must be explainable to both healthcare professionals and patients.
 [Read more](https://virgool.io/@gorjiarman/interpretability-of-ai-in-health)
 
 
 ## Software-Defined Data Center (SDDC) and Digital Health
 **Date:** Augest 04, 2023
-![Software-Defined Data Center (SDDC) and Digital Health](https://files.virgool.io/upload/users/22770/posts/uqnqs25ipi2f/kgyx0gmo2cmg.png)
+![Software-Defined Data Center (SDDC) and Digital Health](assets/img/ppost5.webp)
 Compares traditional data centers with Software-Defined Data Centers (SDDCs), explaining how the latter's flexibility and efficiency can benefit digital health initiatives. The post discusses the advantages of SDDCs in managing healthcare data, improving data accessibility, and reducing costs.
 [Read more](https://virgool.io/@gorjiarman/software-defined-data-center-sddc-and-digital-health)
 
 
 ## The Waluigi Effect; The Evil Counterpart
 **Date:** July 28, 2023
-![The Waluigi Effect; The Evil Counterpart](https://files.virgool.io/upload/users/22770/posts/vzityuebvm1g/brwcishh4kkn.webp)
+![The Waluigi Effect; The Evil Counterpart](assets/img/ppost6.webp)
 Reflects on the pessimistic outlook some hold about the future of AI, termed the "Waluigi Effect." This concept likens AI developments to an "evil counterpart" of beneficial technologies, highlighting fears about AI's potential misuse and the ethical dilemmas that arise from its advancement.
 [Read more](https://virgool.io/@gorjiarman/the-waluigi-effect-the-evil-counterpart)
 
 
 ## Extracting Deep Features from Lung Tumor Images
 **Date:** May 23, 2023
-![Extracting Deep Features from Lung Tumor Images](https://files.virgool.io/upload/users/22770/posts/yzh7anukvw4w/8fcnpqxskygu.jpg)
+![Extracting Deep Features from Lung Tumor Images](assets/img/ppost7.webp)
 Discusses the use of autoencoders in medical image processing to extract deep features from lung tumor images. The post explains how these techniques can enhance the accuracy of tumor detection and classification, ultimately contributing to better diagnosis and treatment planning in oncology.
 [Read more](https://virgool.io/@gorjiarman/extracting-deep-features-from-lung-tumor-images)
 
 
 ## Maybe I Can Write Again
 **Date:** April 21, 2023
-![Maybe I Can Write Again](https://files.virgool.io/upload/users/22770/posts/isc4up2z1ef5/55ymvhqyloig.jpg)
+![Maybe I Can Write Again](assets/img/ppost8.webp)
 A personal reflection on the author's journey through challenges and finding resilience. The post shares insights on overcoming obstacles and reigniting the passion for writing, offering a motivational perspective on personal growth and perseverance.
 [Read more](https://virgool.io/@gorjiarman/maybe-i-can-write-again)
 
 
 ## Five Key Challenges in Digital Health - Part 1
 **Date:** December 12, 2020
-![Five Key Challenges in Digital Health - Part 1](https://files.virgool.io/upload/users/22770/posts/btztfghxmv2n/bwdyzorph9ik.jpeg)
+![Five Key Challenges in Digital Health - Part 1](assets/img/ppost9.webp)
 Introduces the fundamental challenges in digital health, covering issues such as data privacy, interoperability, patient engagement, and the regulatory landscape. The post sets the stage for a deeper exploration of these challenges and their implications for the future of healthcare.
 [Read more](https://virgool.io/@gorjiarman/five-key-challenges-in-digital-health-part-1)
 
 
 ## Infodemic; An Underestimated Problem
 **Date:** September 05, 2020
-![Infodemic; An Underestimated Problem](https://files.virgool.io/upload/users/22770/posts/ar9rcm6ppvc9/zwpb1r3bivcg.jpeg)
+![Infodemic; An Underestimated Problem](assets/img/ppost10.webp)
 Describes the overwhelming spread of information, termed "infodemic," and its negative impact on effectively addressing health crises. The post highlights how misinformation can hinder public health efforts and emphasizes the importance of accurate communication and information management.
 [Read more](https://virgool.io/@gorjiarman/infodemic-an-underestimated-problem)
 
