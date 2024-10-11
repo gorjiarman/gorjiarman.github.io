@@ -4,6 +4,11 @@ layout: default
 
 # Recent Posts
 
+## The Utopia of Artificial Intelligence in Medicine
+**Date:** Oct 11, 2024
+![The Utopia of Artificial Intelligence in Medicine](assets/img/post2-cover.webp)
+In recent years, we've seen incredible breakthroughs in artificial intelligence, especially in how it can reshape healthcare. But one concept stands out as a potential game-changer: large language models (LLMs). These AI systems, like ChatGPT, have already demonstrated their power in many domains, but in medicine, they offer a vision of an AI-driven utopia. Imagine a world where LLMs and other foundation models can seamlessly interpret complex medical data—from genomics to radiology—and assist doctors in making precise, life-saving decisions. We're not there yet, but each new development brings us closer to this AI-powered future. [Read more](./post2.html).
+
 ## Digital Twins
 **Date:** July 27, 2024
 ![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/k26eqia1hlxo/7upnfr0iqern.png)
