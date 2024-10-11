@@ -11,7 +11,7 @@ In recent years, we've seen incredible breakthroughs in artificial intelligence,
 
 ## Digital Twins
 **Date:** July 27, 2024
-![From Snake Oil to AI Papers in Medicine](https://files.virgool.io/upload/users/22770/posts/k26eqia1hlxo/7upnfr0iqern.png)
+![From Snake Oil to AI Papers in Medicine](assets/img/post1-cover.png)
 At its core, the concept of digital twins involves creating virtual alter-egos of objects, living organisms, spaces, or processes. The historical roots of digital twins trace back to simulated environments created by NASA in the 1970s [Read more](./post1.html).
 
 ## From Snake Oil to AI Papers in Medicine
