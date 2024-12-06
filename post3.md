@@ -16,7 +16,8 @@ DCA was introduced in 2006 by Dr. Vickers in this paper and has gradually gained
 Having studied this method for one of my projects, I aim to share what I’ve learned in a more accessible way. Let’s start with a basic definition:
 
 What is DCA?
-DCA is an analytical method for comparing models to determine whether a proposed model (often machine learning-based) offers greater net benefit in practice compared to existing clinical models.
+
+> DCA is an analytical method for comparing models to determine whether a proposed model (often machine learning-based) offers greater net benefit in practice compared to existing clinical models.
 
 To avoid delving into complex details immediately, let me explain its primary application through an example.
 
