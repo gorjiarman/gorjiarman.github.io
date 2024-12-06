@@ -5,7 +5,7 @@ layout: default
 # Recent Posts
 
 ## Evaluating AI Models: Decision Curve Analysis (DCA)
-**Date:** Oct 11, 2024
+**Date:** Dec 6, 2024
 ![Evaluating AI Models: Decision Curve Analysis (DCA)](assets/img/post3-cover.png)
 Understanding the real-world impact of AI models is crucial, especially in clinical settings where decisions can significantly affect patient outcomes. While common metrics like accuracy and AUC provide valuable insights, they often fail to capture the practical utility of a model. In this post, we explore Decision Curve Analysis (DCA)—a powerful yet underutilized method that helps clinicians evaluate whether a model truly delivers a net benefit in practice. Let’s dive into its basics and how it can revolutionize decision-making in healthcare! [Read more](./post3.html).
 
