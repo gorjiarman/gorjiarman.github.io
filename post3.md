@@ -10,12 +10,13 @@ Today, we have a variety of tools to evaluate the performance of AI models. From
 
 Another valuable tool, which we’ll discuss in this post, is the Decision Curve Analysis (DCA).
 
-Introduction to DCA
+## Introduction to DCA
+
 DCA was introduced in 2006 by Dr. Vickers in this paper and has gradually gained traction in scientific research. Each year, its application in academic studies grows. However, learning about DCA can often be challenging. A quick internet search will lead you to either dense academic papers or scattered resources like YouTube videos—both of which can feel overwhelming.
 
 Having studied this method for one of my projects, I aim to share what I’ve learned in a more accessible way. Let’s start with a basic definition:
 
-What is DCA?
+## What is DCA?
 
 > DCA is an analytical method for comparing models to determine whether a proposed model (often machine learning-based) offers greater net benefit in practice compared to existing clinical models.
 
@@ -36,7 +37,8 @@ Now, imagine you’ve developed a new test, Test T, which is more accurate than 
 
 This is where DCA comes in. Its goal is to quantify the net benefit for patients—something other metrics don’t show effectively. Net benefit accounts for the harm caused by false positives and subtracts it from the benefit provided by true positives.
 
-DCA in Action
+## DCA in Action
+
 Let’s say you introduce Test T to the clinician, who still uses the same 40% threshold for decision-making. The clinician must choose between two models:
 
 Model A: Predicts with 30% accuracy.
@@ -45,7 +47,8 @@ To make this decision, the clinician refers to a DCA plot. The plot shows that a
 
 ![Evaluating AI Models: Decision Curve Analysis (DCA)](assets/img/post3-2.png)
 
-How Are DCA Plots Created?
+## How Are DCA Plots Created?
+
 DCA plots are based on a straightforward equation used to calculate net benefit at specific thresholds. By substituting values into this equation, net benefit can be computed and visualized.
 
 ![Evaluating AI Models: Decision Curve Analysis (DCA)](assets/img/post3-3.png)
