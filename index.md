@@ -8,12 +8,12 @@ layout: default
 ## Artificial Life: From Conway’s Game of Life to Modeling the Human Body
 **Date:** May 29, 2026
 ![Artificial Life: From Conway’s Game of Life to Modeling the Human Body](assets/img/post11.jpg)
-Recently, I have entered the world of kinetic modeling in PET imaging, and while it may seem a bit unusual at first, I see it as an opportunity to continue exploring artificial life. Among the concepts I’ve encountered, PBPK modeling is particularly relevant. PBPK, or Physiologically Based Pharmacokinetic Modeling, is a relatively new approach that uses radiotracers and kinetic modeling to represent the relationships between tissues and organs in the body.! [Read more](./post11.html).
+Recently, I have entered the world of kinetic modeling in PET imaging, and while it may seem a bit unusual at first, I see it as an opportunity to continue exploring artificial life. Among the concepts I’ve encountered, PBPK modeling is particularly relevant. PBPK, or Physiologically Based Pharmacokinetic Modeling, is a relatively new approach that uses radiotracers and kinetic modeling to represent the relationships between tissues and organs in the body. [Read more](./post11.html).
 
 ## Evaluating AI Models: Decision Curve Analysis (DCA)
 **Date:** Dec 6, 2024
 ![Evaluating AI Models: Decision Curve Analysis (DCA)](assets/img/post3-cover.png)
-Understanding the real-world impact of AI models is crucial, especially in clinical settings where decisions can significantly affect patient outcomes. While common metrics like accuracy and AUC provide valuable insights, they often fail to capture the practical utility of a model. In this post, we explore Decision Curve Analysis (DCA)—a powerful yet underutilized method that helps clinicians evaluate whether a model truly delivers a net benefit in practice. Let’s dive into its basics and how it can revolutionize decision-making in healthcare! [Read more](./post3.html).
+Understanding the real-world impact of AI models is crucial, especially in clinical settings where decisions can significantly affect patient outcomes. While common metrics like accuracy and AUC provide valuable insights, they often fail to capture the practical utility of a model. In this post, we explore Decision Curve Analysis (DCA)—a powerful yet underutilized method that helps clinicians evaluate whether a model truly delivers a net benefit in practice. Let’s dive into its basics and how it can revolutionize decision-making in healthcare. [Read more](./post3.html).
 
 ## The Utopia of Artificial Intelligence in Medicine
 **Date:** Oct 11, 2024
