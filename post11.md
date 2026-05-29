@@ -5,6 +5,7 @@ layout: default
 # Artificial Life: From Conway’s Game of Life to Modeling the Human Body
 
 ![Artificial Life: From Conway’s Game of Life to Modeling the Human Body](assets/img/post11.jpg)
+An automata from Lenia
 
 For a long time, my drafts have included the term “[Artificial Life](https://en.wikipedia.org/wiki/Artificial_life)” or “ALife,” and I’ve always wanted to write about it. Today, I finally found the time. Since the early days of my personal blog, thinking about artificial forms of life has fascinated me, and through one of my friends, I became familiar with [Conway’s Game of Life](https://playgameoflife.com/). The basic idea of this game is very simple: in a two-dimensional space with an infinite grid of cells, you can activate any cells you want at the start and then press “start.” Based on four simple rules, cells turn on or off, and you can observe how different patterns evolve over time. The four rules are as follows:
 
