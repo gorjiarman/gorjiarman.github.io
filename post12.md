@@ -12,23 +12,27 @@ PINNs, or Physics-Informed Neural Networks, are a relatively new concept that wa
 Imagine that we are developing a model in which a neural network is learning the maximum height of a projectile thrown straight upward using a dataset consisting of initial velocities and the corresponding maximum heights.
 
 ![image](assets/img/post12-1.png)
+
 The mathematical equation of the neural network
 
 You may say that this problem can already be solved using the very old equations that Mr. Newton discovered 400 years ago, shown below, and that there is no need to use neural networks or artificial intelligence in general.
 
 ![image](assets/img/post12-2.png)
+
 The differential equation of a projectile thrown straight upward (Y only)
 
 However, in reality, besides gravity, other forces also affect the projectile. The simplest of these is friction. You may again say that physics has also provided us with methods to calculate friction. Yes, that is true. But even today in nature, especially when we are talking about very small and microscopic scales, phenomena occur whose general physical behavior we understand, but we are not aware of all the factors that influence them. This is exactly where Physics-Informed Neural Networks help us.
 
 In a simple neural network model, the model makes a prediction based on the input data and assigns weights to the network (in the first attempt, it makes a completely random guess). It then compares the final result with the true value and updates the weights according to the amount of error.
 
-![image](assets/img/post12-3.png)
+![image](assets/img/post12-3.jpeg)
+
 A simple diagram of how a neural network works, adapted from [here](https://towardsdatascience.com/understanding-neural-networks-19020b758230/)
 
 The advantage of Physics-Informed Neural Networks over conventional neural networks is that, in these networks, the correction, or as some texts call it, the penalty, is determined by two things: the amount of error between the network's prediction and the corresponding physical equations, and the amount of error between the prediction and the true value.
 
 ![image](assets/img/post12-4.png)
+
 Loss calculation in Physics-Informed Neural Networks
 
 Therefore, the model is corrected not only toward the real data but also toward the underlying physical equation. However, you may say that collecting data such as the initial velocity of a projectile and its maximum height is easy, and that with millions of pairs of initial velocities and maximum heights, a neural network without the help of physics can certainly perform excellently (and even better than the differential equation alone without considering friction). I should say that this statement is completely correct, and this is exactly what neural networks do very well. But imagine situations such as predicting the movement of a radiotracer in the human body. The amount of data obtained from nuclear imaging scans of these patients is very limited, and with such a small amount of data, training a neural network becomes very difficult. Therefore, in these situations, Physics-Informed Neural Networks help us, and we can obtain good results even with a small amount of data.
