@@ -7,7 +7,7 @@ layout: default
 
 ## Physics-Informed Neural Networks (PINNs)
 **Date:** Jun 26, 2026
-![Physics-Informed Neural Networks (PINNs)](assets/img/post12-cover.jpg)
+![Physics-Informed Neural Networks (PINNs)](assets/img/post12-cover.png)
 PINNs, or Physics-Informed Neural Networks, are a relatively new concept that was first defined under this name in 2017 by Dr. Maziar Raissi and his team through their published papers. They also continued to work on this topic in the following years. To better understand Physics-Informed Neural Networks, as the name suggests, we should use a physical example from nature. Although I know that, as a physician, I am stepping into a frightening world, I will try to overcome my fear and explain it in a way that is understandable using the countless courses available on the internet. [Read more](./post12.html).
 
 ## Artificial Life: From Conway’s Game of Life to Modeling the Human Body
